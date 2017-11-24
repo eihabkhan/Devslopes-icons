@@ -50,7 +50,7 @@ Twitter: [@eihabkay](https://twitter.com/eihabkay)
 Instagram: [@eihabkay](https://www.instagram.com/eihabkay)
 
 
-This work was inspired by [Dhanish](https://github.com/dhanishgajjar), a full stack developer and an amazing designer
+This work was inspired by [Dhanish](https://github.com/dhanishgajjar), a full stack developer and an amazing designer<br>
 You can find him on:
 Twitter: [@dhanishgajjar](https://twitter.com/dhanishgajjar)
 Instagram: [@dhanishgajjar](https://instagram.com/dhanishgajjar)
