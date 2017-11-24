@@ -6,7 +6,19 @@ ALL RIGHTS RESERVED TO THE RESPECTIVE OWNERS OF THE THEMES USED IN THESE ICONS, 
 
 ```
 
-A fun little project for custom Devslopes® platform Icons. All rights reserved to their respective owners of the themes I am using whether it is DC, Marvel, HBO, Netflix or any other app themes.
+## Devslopes
+If you don't know what Devslopes is, Devslopes is the best place to learn code, if you want to be a professional iOS Developer, Android Developer, Full Stack Web Developer then Devslopes is the perfect place for you.
+
+## Lifetime access
+Devslopes are currently offering lifetime access to all their current and future courses, pay once, learn forever.
+This offer ends on Nov 30th click 👉🏼 [here](https://devslopes.com/lifetime-access/) if you want to check it out, I am a lifetime backer myself, I look at this lifetime offer as an investment in my own self.
+
+## Disclaimer
+I have no affilition with Devslopes, I am simply a student of Devslopes and I really love what they do, they are the best in the biz. 👌🏼
+
+##
+
+This fun little project for custom [Devslopes](https://devslopes.com/)® platform Icons. All rights reserved to their respective owners of the themes I am using whether it is DC, Marvel, HBO, Netflix or any other app themes.
 
 ## How to Install
 
