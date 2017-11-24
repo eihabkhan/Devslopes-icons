@@ -44,5 +44,13 @@ Hovering on them will reveal the names
 
 <img src="png/Xcode.png" title="Xcode" width="128"/>  <img src="png/Android Studio.png" title="Android Studio" width="128"/>  <img src="png/Hyper Terminal.png" title="Hyper Terminal" width="128"/>  <img src="png/VSCode.png" title="Visual Studio Code" width="128"/>  <img src="png/Sublime Text.png" title="Sublime Text" width="128"/>  <img src="png/Postman.png" title="Postman" width="128"/>
 
+## 
+You can find me on :
+Twitter: [@eihabkay](https://twitter.com/eihabkay)
+Instagram: [@eihabkay](https://www.instagram.com/eihabkay)
 
-You can find me on Twitter: [@eihabkay](https://twitter.com/eihabkay)
+
+This work was inspired by [Dhanish](https://github.com/dhanishgajjar), a full stack developer and an amazing designer
+You can find him on:
+Twitter: [@dhanishgajjar](https://twitter.com/dhanishgajjar)
+Instagram: [@dhanishgajjar](https://instagram.com/dhanishgajjar)
