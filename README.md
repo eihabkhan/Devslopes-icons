@@ -26,9 +26,10 @@ Copy the `.icns` file you'd like to use (`⌘ + C`). Find Devslopes in your Appl
 
 If that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
 
-Hovering on them will reveal the names
+
 
 ## Based on my favorite Super Heroes
+Hovering on them will reveal the names
 
 <img src="png/Batman.png" title="Batman" width="128"/>  <img src="png/Spiderman.png" title="Spiderman" width="128"/>  <img src="png/Ironman.png" title="Ironman" width="128"/>
 
