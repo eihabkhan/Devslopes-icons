@@ -47,8 +47,8 @@ Hovering on them will reveal the names
 
 ## 
 You can find me on :
-Twitter: [@eihabkay](https://twitter.com/eihabkay)
-Instagram: [@eihabkay](https://www.instagram.com/eihabkay)
+Twitter: [@eihabkay](https://twitter.com/eihab_dev)
+Instagram: [@eihabkay](https://www.instagram.com/eihab_dev)
 
 
 This work was inspired by [Dhanish](https://github.com/dhanishgajjar), a full stack developer and an amazing designer<br>
